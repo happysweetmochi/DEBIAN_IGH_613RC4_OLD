@@ -1,0 +1,3 @@
+
+
+./configure --with-linux-dir=/media/root/48e0f43c-e356-4ad3-b6e8-1981623c64a5/kernel/linux6.13/linux-6.13-rc4 --enable-generic=yes --enable-r8169=yes --enable-igc=yes --enable-igb=yes  --enable-e1000e=yes --enable-eoe=no
