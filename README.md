@@ -9,6 +9,6 @@ cVKMCoreWid为简易后台界面
 
 现在可以提供一个安装且好 igh rt-preempt 以及这部分代码提前存放到系统的 iso 镜像，
 
-可以访问: www.chocmochi.com 下载页: http://www.chocmochi.com/download/
+可以访问: www.chocmochi.com 下载页: share-CN 或者 share-KR 分别是CN服务器和KR服务器的文件目录，在 igh-debian-iso 目录下
 
 目前正在修复程序，所幸基础框架都迭代为最近为公司开发的视觉跨平台跨设备底层框架，移植到linux需要一点时间
